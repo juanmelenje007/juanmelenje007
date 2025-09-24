@@ -9,5 +9,5 @@ Apasionado por: **IA**, **desarrollo web** y **seguridad informática**.
 ## Proyectos destacados
 
 ## Contacto
-- 📫 Email: juanmelenje535@gmail.com
+- 📧 E-mail: juanmelenje535@gmail.com
 - 🌍 Ubicación: Popayán, Colombia
